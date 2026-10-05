@@ -1,0 +1,16 @@
+# Local workspace/editor data
+.obsidian/
+.vscode/
+.idea/
+*.user
+
+# Windows metadata and transient files
+**/desktop.ini
+Thumbs.db
+*.tmp
+*.bak
+
+# Generated local checks and temporary media workspaces
+artifacts/
+tmp/
+logs/
