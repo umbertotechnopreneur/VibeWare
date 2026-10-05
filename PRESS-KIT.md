@@ -32,11 +32,9 @@ The wordmark files are exploratory raster artwork, not a native vector master. T
 | Light digital surfaces | ![Gradient wordmark on light](press-kit/assets/logo/vibeware-wordmark-light-gradient.png) |
 | Small or monochrome placement | ![Monochrome wordmark](press-kit/assets/logo/vibeware-wordmark-mono-dark.png) |
 
-## Boot animation
+## Visual motion reference
 
-![VibeWare boot animation](press-kit/assets/boot/vibeware-boot.gif)
-
-The GIF is an original retro home-computer boot homage: the selected floppy symbol enters a generic disk slot and the screen shows the selected VibeWare logo. It contains no Amiga mark, operating-system screen or copied interface.
+*Amiga 1200 boot loading startup screen with floppy sound* is retained locally as a 320x240 MP4 visual reference supplied for this project and observed on 5 October 2026. It visibly includes Commodore-Amiga copyright text and a MakeAGIF watermark. It is cited only for the simple movement of a floppy entering a slot; it is not included in the public repository because no redistribution licence or source URL was supplied.
 
 ## AI workflow wording
 

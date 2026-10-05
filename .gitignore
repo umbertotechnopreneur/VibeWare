@@ -14,3 +14,6 @@ Thumbs.db
 artifacts/
 tmp/
 logs/
+
+# Local third-party visual references: kept in Obsidian, never pushed without rights.
+reference-media/external/*.mp4
