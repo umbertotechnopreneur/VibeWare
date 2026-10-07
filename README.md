@@ -31,4 +31,6 @@ VibeWare first appeared in [ESP32 Luna Shell](https://github.com/umbertotechnopr
 
 Repository material is available under the [MIT License](LICENSE) to the extent owned by the copyright holder. The license does not grant trademark rights in the VibeWare name or logo and does not imply endorsement, partnership or review.
 
+**Use it, adapt it and make it visible.** Separately from the MIT License, I encourage you to reuse the material and [graphic assets](PRESS-KIT.md) in this repository, build on the ideas in the [manifesto](MANIFESTO.md), and use the **VibeWare** name for projects that follow those principles. Keep the attribution, be open about how AI contributed, and do not imply that I created or reviewed work I did not participate in. The more developers who use VibeWare responsibly, the stronger the initiative becomes.
+
 Created by [Umberto Giacobbi](https://umbertogiacobbi.biz). VibeWare was born on **5 October 2026**.
