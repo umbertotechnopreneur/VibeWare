@@ -6,9 +6,13 @@
 
 > VibeWare = Human intent, AI, and plenty of tokens ;-)
 
-VibeWare is a term coined by [Umberto Giacobbi](https://umbertogiacobbi.biz) for software shaped by human intent, executed with AI and refined through human judgment, testing, quality checks and security review.
+## Why I created VibeWare
 
-It is an open initiative for developers who build with AI and care about the craft. VibeWare challenges the assumption that vibe coding is synonymous with low-quality code: the result should be judged by the quality of the work and the evidence behind it.
+I kept building small utilities to replace software that had become far larger than the job it performed. A simple peripheral could require a download measured in hundreds of megabytes; a media console could arrive with nearly a gigabyte of supporting software. With AI and knowledge shared by open-source projects, I could build focused alternatives measured in tens of megabytes, using a fraction of the memory.
+
+But I did not know what to call that work. The ideas were mine. I defined the problems, chose the direction, made the decisions, reviewed the results and took responsibility for what I released. Yet much of the code was executed by AI. Calling it simply “my code” concealed an important part of the process, while calling it “vibe coding” often invited the assumption that it must be careless or low quality.
+
+I coined **VibeWare** as an honest umbrella for these projects: useful software developed with AI under my direction, reviewed and tested against production-quality standards. It is also an open invitation to other developers who work this way. AI-generated code does not need to be hidden, and it should not be dismissed because of how it was produced. The work should be judged by what it does, how carefully it was checked and the evidence behind it.
 
 ## Explore VibeWare
 
