@@ -2,7 +2,7 @@
 
 These are the eight original concepts generated for the brief: 1980s cyber computing, lo-fi and pixel art, explicitly without neon art. The originals are preserved unchanged, including imperfections. Umberto approved **02 Floppy** on 5 October 2026; all other proposals are archived, not approved.
 
-The exact approved attachment is available in the [brand guidelines](../../../Branding/Brand%20guidelines.md). See the [prompts](PROMPTS.md) and [provenance manifest](manifest.json) for the original requests and file checksums.
+The exact approved attachment is documented in the [press kit](../../../PRESS-KIT.md). See the [prompts](PROMPTS.md) and [provenance manifest](manifest.json) for the original requests and file checksums.
 
 ## 01 Terminal
 

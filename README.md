@@ -1,28 +1,30 @@
 # VibeWare
 
-![VibeWare primary floppy symbol](press-kit/assets/logo/vibeware-symbol-dark.png)
-
-VibeWare is the creative and technical label used by Umberto Giacobbi for work shaped through human intent, AI-assisted workflows and deliberate implementation. The term was coined on **5 October 2026**.
+<p align="center">
+  <img src="press-kit/assets/logo/vibeware-symbol-dark.png" alt="VibeWare floppy symbol" width="240">
+</p>
 
 > VibeWare = Human intent, AI, and plenty of tokens ;-)
 
-VibeWare is connected to the [ESP32 Luna Shell](https://github.com/umbertotechnopreneur/esp32-luna-shell) project. It is not a claim that every repository, contributor or output has been reviewed by AI or by a person.
+VibeWare is a term coined by [Umberto Giacobbi](https://umbertogiacobbi.biz) for software shaped by human intent, executed with AI and refined through human judgment, testing, quality checks and security review.
 
-## Links
+It is an open initiative for developers who build with AI and care about the craft. VibeWare challenges the assumption that vibe coding is synonymous with low-quality code: the result should be judged by the quality of the work and the evidence behind it.
 
-- Creator: [Umberto Giacobbi](https://umbertogiacobbi.biz)
-- ESP32 Luna Shell repository: <https://github.com/umbertotechnopreneur/esp32-luna-shell>
-- Planned manifesto URL: <https://umbertogiacobbi.biz/vibeware>
-- [Manifesto source in this repository](MANIFESTO.md)
-- [Press kit](PRESS-KIT.md)
-- [Distribution notes](DISTRIBUTION.md)
+## Explore VibeWare
 
-The public website manifesto URL is planned. It returned 404 at the last recorded verification, so this repository does not describe it as published.
+- [Manifesto](MANIFESTO.md) — the principles behind VibeWare.
+- [Press kit](PRESS-KIT.md) — approved identity, assets, language and reuse guidance.
+- [Project context](PROJECT-CONTEXT.md) — repository scope, decisions and maintenance boundaries.
+- [Templates](templates/) — reusable source header, README footer and AI development disclosure.
 
-## AI in the workflow
+The canonical web manifesto is available at [umbertogiacobbi.biz/vibeware/manifesto](https://umbertogiacobbi.biz/vibeware/manifesto).
 
-VibeWare may use tools such as OpenAI Codex, GitHub Copilot and AI-assisted CI/CD pipelines. Tools, models and versions vary by contributor and execution environment. Git history and CI/CD logs are the appropriate places to inspect recorded provenance when they exist; they do not prove a universal review of every contribution.
+## Related work
 
-## License
+VibeWare first appeared in [ESP32 Luna Shell](https://github.com/umbertotechnopreneur/esp32-luna-shell). Each project using the VibeWare name keeps its own implementation, license, release status and verification evidence.
 
-This repository is licensed under [MIT](LICENSE). The license covers the repository material to the extent held by its copyright owner; it does not grant trademark rights in the VibeWare name or logo.
+## License and identity
+
+Repository material is available under the [MIT License](LICENSE) to the extent owned by the copyright holder. The license does not grant trademark rights in the VibeWare name or logo and does not imply endorsement, partnership or review.
+
+Created by [Umberto Giacobbi](https://umbertogiacobbi.biz). VibeWare was born on **5 October 2026**.
