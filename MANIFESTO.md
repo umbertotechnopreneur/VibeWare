@@ -1,6 +1,6 @@
 # VibeWare manifesto
 
-> VibeWare = Human intent, AI, and plenty of tokens ;-)
+> Human intent. AI implementation. Accountable human review.
 
 ## Human intent comes first
 

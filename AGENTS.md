@@ -3,7 +3,7 @@
 ## Scope and orientation
 
 This is Umberto Giacobbi's VibeWare brand repository. It holds the manifesto,
-brand artwork, press kit, asset provenance and source-header proposal. The
+brand artwork, press kit, asset provenance and source-header template. The
 portable Photo Organizer is maintained in a separate workspace; an Ai-Toolbox
 handover does not authorize importing that application here.
 
@@ -38,7 +38,7 @@ unless the owner requests another language.
 ## Brand and asset constraints
 
 - Preserve the spelling **VibeWare**, creator **Umberto Giacobbi**, and primary
-  tagline: `VibeWare = Human intent, AI, and plenty of tokens ;-)`.
+  tagline: `Human intent. AI implementation. Accountable human review.`.
 - The approved source is `Branding/vibeware-logo.png`. Preserve its original
   pixels, colors, dimensions and transparent canvas. Derivatives must remain
   identifiable as derivatives.
@@ -57,8 +57,8 @@ The canonical manifesto URL is
 `https://umbertogiacobbi.biz/vibeware/manifesto`, supplied by the owner. Use it
 in documentation and source-header templates. Accept this address as given;
 do not check its availability unless the owner requests verification.
-The source-header text remains a proposal until explicitly applied to a named
-project.
+The source-header template does not establish that it was applied to or
+reviewed in any named project.
 
 The repository's MIT materials do not establish redistribution rights for the
 separate application's icons, fonts, models or other dependencies. Check the

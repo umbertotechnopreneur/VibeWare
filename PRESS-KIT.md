@@ -9,8 +9,7 @@ This page is the public reference for VibeWare identity, approved artwork, edito
 | **Name** | VibeWare |
 | **Creator** | [Umberto Giacobbi](https://umbertogiacobbi.biz) |
 | **Origin** | 5 October 2026 |
-| **Primary tagline** | VibeWare = Human intent, AI, and plenty of tokens ;-) |
-| **Positioning** | Human intent, AI execution and accountable human review |
+| **Primary tagline** | Human intent. AI implementation. Accountable human review. |
 | **Visual direction** | 1980s computing, lo-fi and pixel art; no neon |
 | **Manifesto** | [umbertogiacobbi.biz/vibeware/manifesto](https://umbertogiacobbi.biz/vibeware/manifesto) |
 
@@ -60,7 +59,7 @@ A local six-second Amiga 1200 boot video was supplied as motion reference on 5 O
 
 Use the primary tagline exactly as written:
 
-> VibeWare = Human intent, AI, and plenty of tokens ;-)
+> Human intent. AI implementation. Accountable human review.
 
 For concise project credits, use:
 

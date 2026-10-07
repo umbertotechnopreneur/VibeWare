@@ -4,7 +4,7 @@
   <img src="press-kit/assets/logo/vibeware-symbol-dark.png" alt="VibeWare floppy symbol" width="240">
 </p>
 
-> VibeWare = Human intent, AI, and plenty of tokens ;-)
+> Human intent. AI implementation. Accountable human review.
 
 ## Why I created VibeWare
 

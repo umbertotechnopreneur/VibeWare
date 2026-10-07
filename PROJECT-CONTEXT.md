@@ -1,6 +1,6 @@
 # VibeWare project context
 
-Last consolidated: **7 October 2026**, Asia/Saigon.
+Last consolidated: **8 October 2026**, Asia/Saigon.
 
 ## Repository purpose
 
@@ -33,7 +33,7 @@ The repository is the source for the brand and its documentation. It is not an a
 ## Established decisions
 
 - Umberto Giacobbi coined **VibeWare** on 5 October 2026.
-- The canonical tagline is `VibeWare = Human intent, AI, and plenty of tokens ;-)`.
+- The canonical tagline is `Human intent. AI implementation. Accountable human review.`.
 - The approved source artwork is `Branding/vibeware-logo.png`.
 - The approved visual direction is 1980s computing, lo-fi and pixel art without neon effects.
 - The floppy and VW monogram are the primary symbol. Wordmark files in the press kit remain raster candidates rather than an approved vector master.
