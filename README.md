@@ -1,4 +1,4 @@
-# VibeWare
+# This is VibeWare
 
 <p align="center">
   <img src="press-kit/assets/logo/vibeware-symbol-dark.png" alt="VibeWare floppy symbol" width="240">
@@ -15,6 +15,12 @@ Not bad considering how much RAM costs exactly thanks to AI.
 But I did **not know what to call that work** vibe coded sounds not right, it comes with a stigma attached, I want to change that. The ideas were mine. I defined the problems, chose the direction, made the decisions, reviewed the results and took responsibility for what I released. Yet much of the code was executed by AI. Calling it simply “my code” concealed an important part of the process, while calling it “vibe coding” often invited the assumption that it must be careless or low quality.
 
 I coined **VibeWare** as an honest umbrella for these projects: useful software developed with AI under my direction, reviewed and tested against production-quality standards. It is also an open invitation to other developers who work this way. AI-generated code does not need to be hidden, and it should not be dismissed because of how it was produced. The work should be judged by what it does, how carefully it was checked and the evidence behind it.
+
+## This is VibeWare · [Manifesto](https://umbertogiacobbi.biz/vibeware/manifesto)
+
+When I label my software “This is VibeWare”, I am saying that I created it with AI assistance: I define the purpose, guide the implementation, and take responsibility for checking functionality, performance, and security. The label describes my development approach; it does not certify a particular test result.
+
+To learn what VibeWare means and why I created it, read the [VibeWare manifesto](https://umbertogiacobbi.biz/vibeware/manifesto). My [README footer template](templates/README-FOOTER.md) uses the same first-person wording.
 
 ## Explore VibeWare
 
