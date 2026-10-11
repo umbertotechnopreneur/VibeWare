@@ -14,4 +14,8 @@ To learn what VibeWare means and why I created it, read the [VibeWare manifesto]
 
 [VibeWare on GitHub](https://github.com/umbertotechnopreneur/VibeWare) · [umbertogiacobbi.biz](https://umbertogiacobbi.biz)
 
+[Terms](https://umbertogiacobbi.biz/terms/) · [Privacy](https://umbertogiacobbi.biz/privacy/)
+
+<!-- Keep this application's GitHub link alongside the links above. Follow APP-PUBLICATION.md for the application's main-window footer and About window. Verify that the linked legal pages cover the product before release. -->
+
 *You are welcome to explore, adapt and reuse the open-source VibeWare materials under the project license — my contribution to the developer community.*

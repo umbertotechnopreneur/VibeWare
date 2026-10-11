@@ -28,6 +28,7 @@ To learn what VibeWare means and why I created it, read the [VibeWare manifesto]
 - [Press kit](PRESS-KIT.md) — approved identity, assets, language and reuse guidance.
 - [Project context](PROJECT-CONTEXT.md) — repository scope, decisions and maintenance boundaries.
 - [Templates](templates/) — reusable source header, README footer and AI development disclosure.
+- [App publication rules](templates/APP-PUBLICATION.md) — main-window footer, About, legal links and release communication.
 
 The canonical web manifesto is available at [umbertogiacobbi.biz/vibeware/manifesto](https://umbertogiacobbi.biz/vibeware/manifesto).
 
