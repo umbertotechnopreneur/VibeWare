@@ -8,6 +8,8 @@ Provide a discreet, centered navigation row: **About {AppName} · Terms · Priva
 
 Keep **This is VibeWare · Manifesto** on one line. Use the canonical [VibeWare manifesto](https://umbertogiacobbi.biz/vibeware/manifesto). Do not describe the app as made by an unspecified collective or turn the footer into an advertisement. Allow a separate row on narrow windows; never clip links.
 
+On the main window, show the footer links for **30 seconds**, then fade them out over **3 seconds**. Preserve layout space. Reveal them again when the pointer enters the footer area or keyboard focus reaches a link; do not fade links during interaction. Keep About-window links available so legal information remains easy to reach.
+
 ## About window
 
 Show the product name, installed version, a short explanation of its purpose and the following disclosure, adapted to the actual app:
