@@ -1,4 +1,4 @@
-# VibeWare
+# This is VibeWare
 
 <p align="center">
   <img src="press-kit/assets/logo/vibeware-symbol-dark.png" alt="VibeWare floppy symbol" width="240">
@@ -16,12 +16,19 @@ But I did **not know what to call that work** vibe coded sounds not right, it co
 
 I coined **VibeWare** as an honest umbrella for these projects: useful software developed with AI under my direction, reviewed and tested against production-quality standards. It is also an open invitation to other developers who work this way. AI-generated code does not need to be hidden, and it should not be dismissed because of how it was produced. The work should be judged by what it does, how carefully it was checked and the evidence behind it.
 
+## This is VibeWare · [Manifesto](https://umbertogiacobbi.biz/vibeware/manifesto)
+
+When I label my software “This is VibeWare”, I am saying that I created it with AI assistance: I define the purpose, guide the implementation, and take responsibility for checking functionality, performance, and security. The label describes my development approach; it does not certify a particular test result.
+
+To learn what VibeWare means and why I created it, read the [VibeWare manifesto](https://umbertogiacobbi.biz/vibeware/manifesto). My [README footer template](templates/README-FOOTER.md) uses the same first-person wording.
+
 ## Explore VibeWare
 
 - [Manifesto](MANIFESTO.md) — the principles behind VibeWare.
 - [Press kit](PRESS-KIT.md) — approved identity, assets, language and reuse guidance.
 - [Project context](PROJECT-CONTEXT.md) — repository scope, decisions and maintenance boundaries.
 - [Templates](templates/) — reusable source header, README footer and AI development disclosure.
+- [App publication rules](templates/APP-PUBLICATION.md) — main-window footer, About, legal links and release communication.
 
 The canonical web manifesto is available at [umbertogiacobbi.biz/vibeware/manifesto](https://umbertogiacobbi.biz/vibeware/manifesto).
 
