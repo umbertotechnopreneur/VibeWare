@@ -29,9 +29,11 @@ Add a centered **Terms · Privacy** row and an accessible Close button. Links mu
 - Privacy: https://umbertogiacobbi.biz/privacy/
 - Application repository: use that application's actual repository URL.
 
+The website source is maintained in [umbertogiacobbidotbiz](https://github.com/umbertotechnopreneur/umbertogiacobbidotbiz). Shared legal content is in `src/content/legal.js`, translated into English, Italian and Vietnamese. Its publication pipeline is separate from application packaging.
+
 ## Release and Store checks
 
-1. Check that privacy and terms explicitly cover the product before Store submission. Document its real permissions, local storage and external services; do not copy another app's data claims.
+1. Use the shared, generic Terms and Privacy pages on **umbertogiacobbi.biz** for the website and Umberto's published applications that reference them. Their scope must not be limited to a fixed list of products. Keep product-specific permissions, local storage and external services in each application's documentation or dedicated policy; do not copy another app's data claims. Maintain the website in its own repository, separately from app release pipelines.
 2. Keep the app's license and third-party notices available. Terms must not silently replace the repository license.
 3. Describe native technology, memory, performance and disk space accurately. State optimization priorities and ongoing work; publish numerical claims only with measurements and context.
 4. Keep local test signing separate from Microsoft Store identity. Verify the packaged manifest's identity, publisher, architecture and version against Partner Center.
